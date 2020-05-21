@@ -3,7 +3,7 @@ import { IonContent, IonPage, IonList, IonRadioGroup, IonListHeader, IonLabel, I
 import ReusableHeaderExample from "../components/ReusableHeaderExample";
 
 const RadioExample: React.FC = () => {
-    const [selected, setSelected] = useState<string>('biff');
+    const [selected, setSelected] = useState<string>('first');
     return (
         <IonPage>
             <ReusableHeaderExample title={"Radio Button Examples"} />
