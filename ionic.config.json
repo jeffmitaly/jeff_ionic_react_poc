@@ -1,0 +1,7 @@
+{
+  "name": "jeff_ionic_react_poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
